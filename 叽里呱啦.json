@@ -640,7 +640,6 @@
 ]
 },
 
-{"key":"tufun采集","name":"菠菜","type":1,"api":"https://tyyszyapi.com/api.php/provide/vod/","searchable":1,"changeable":1},
 {"key":"Boba影视","name":"Boba資源","type":0,"api":"http://150.109.94.44:1112/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","悬疑片","剧情片","4K","国产剧","欧美剧","日韩剧","港剧","台剧","大陆动漫","日韩动漫","欧美动漫","动画电影","布袋戏","Netflix电影","Netflix电视剧","短剧","纪录片"]},
 {"key":"jisuzy.tv","name":"极速资源","type":1,"api":"https://jszyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["内地剧","韩剧","日剧","欧美剧","香港剧","马泰剧","动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","灾难片","悬疑片","奇幻片","犯罪片","记录片","战争片"]},
 {"key":"jinyingzy.net","name":"金鹰资源","type":1,"api":"https://jyzyapi.com/provide/vod/","searchable":0,"quickSearch":0,"categories":["内地剧","韩剧","日剧","欧美剧","香港剧","台湾剧","马泰剧","剧情片","动作片","爱情片","喜剧片","科幻片","恐怖片","动画片","战争片","记录片"]},
@@ -1470,7 +1469,7 @@
 
 ],
 
-"ads":["static-mozai.4gtv.tv"],
+"ads":["static-mozai.4gtv.tv", "mimg.0c1q0l.cn", "www.googletagmanager.com", "www.google-analytics.com", "mc.usihnbcq.cn", "mg.g1mm3d.cn", "mscs.svaeuzh.cn", "cnzz.hhttm.top", "tp.vinuxhome.com", "cnzz.mmstat.com", "www.baihuillq.com", "s23.cnzz.com", "z3.cnzz.com", "c.cnzz.com", "stj.v1vo.top", "z12.cnzz.com", "img.mosflower.cn", "tips.gamevvip.com", "ehwe.yhdtns.com", "xdn.cqqc3.com", "www.jixunkyy.cn", "sp.chemacid.cn", "hm.baidu.com", "s9.cnzz.com", "z6.cnzz.com", "um.cavuc.com", "mav.mavuz.com", "wofwk.aoidf3.com", "z5.cnzz.com", "xc.hubeijieshikj.cn", "tj.tianwenhu.com", "xg.gars57.cn", "k.jinxiuzhilv.com", "cdn.bootcss.com", "ppl.xunzhuo123.com", "xomk.jiangjunmh.top", "img.xunzhuo123.com", "z1.cnzz.com", "s13.cnzz.com", "xg.huataisangao.cn", "z7.cnzz.com", "z2.cnzz.com", "s96.cnzz.com", "q11.cnzz.com", "thy.dacedsfa.cn", "xg.whsbpw.cn", "s19.cnzz.com", "z8.cnzz.com", "s4.cnzz.com", "f5w.as12df.top", "ae01.alicdn.com", "www.92424.cn", "k.wudejia.com", "vivovip.mmszxc.top", "qiu.xixiqiu.com", "cdnjs.hnfenxun.com", "cms.qdwght.com"],
 
 
 "lives": [
